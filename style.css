@@ -8,8 +8,8 @@ body {
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  align-content: center;
   margin: 0 auto;
+  align-content: center;
 }
 
 #dynamic {
