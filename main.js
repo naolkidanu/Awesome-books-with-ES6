@@ -1,5 +1,5 @@
 import Book from './modules/book-list.js';
-import handleTime from './modules/dateTime.js';
+import handleTime from './modules/Time.js';
 
 window.addEventListener('load', () => {
   handleTime();
