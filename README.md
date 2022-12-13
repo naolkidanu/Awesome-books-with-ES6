@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 - Clone the repository using the link
-- Navigate to the folder using `cd awesome-books-ES6`
+- Navigate to the folder using `cd awesome-Books-ES6`
 - Open index.html in the browser of your choice
 - Use your favorite text editor to modify contents of the page
 
