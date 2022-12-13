@@ -1,50 +1,110 @@
-﻿# awesome-books-es6
+﻿<!-- TABLE OF CONTENTS -->
 
-> A javascript project developed for book store and can operate basic functinality with simple UI.
+# 📗 Table of Contents
 
-## Built With
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Deployment](#)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-- HTML
-- CSS
-- Javascript
+<!-- PROJECT DESCRIPTION -->
 
-## Getting Started
+# 📖 Awesome Books <a name="about-project"></a>
 
-To get a local copy up and running follow these simple example steps.
+**Awesome Books** A javascript project developed for book store and can operate basic functinality with simple UI.
 
-### Prerequisites
+## 🛠 Built With <a name="built-with"></a>
 
-- A browser
-- A version control like git
-- A text editor
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Languages</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript(ES6)</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://github.com/">Github</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Build Awesome Book project with JavaScript ES6**
+- **Add Books to a book list**
+- **Delete Books from the book list**
+- **Save data to local storage**
+- **Modify the Awesome Books application to have a navigation Bar**
+- **Three content sections:**
+  _1 Books list._
+  _2 Add book form._
+  _3 Contact info._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
 
 ### Setup
 
-- Clone the repository using the link
-- Navigate to the folder using `cd awesome-Books-ES6`
-- Open index.html in the browser of your choice
-- Use your favorite text editor to modify contents of the page
+Clone this repository to your desired folder:
 
-## Authors
+```sh
+  git clone https://naolkidanu.github.io/Awesome-books-with-ES6/
+```
 
-👤 **Abdelmejid Oumer Ali**
+### Install
+
+<!-- AUTHORS -->
+
+## 👥 Authors
+
+👤 **Naol Kidanu Merdasa**
 
 - GitHub: [@naolkidanu](https://github.com/naolkidanu)
 - Twitter: [@naol](https://twitter.com/naolkidanu)
-- LinkedIn: [naolkidanu](https://linkedin.com/in/naolkidanu)
+- LinkedIn: [@naolkidanu](https://linkedin.com/in/naolkidanu)
+<!-- SUPPORT -->
 
-## 🤝 Contributing
+## ⭐️ Show your support <a name="support"></a>
 
-Contributions, issues, and feature requests are welcome!
+If you like this project give me a star.
 
-Feel free to check the [issues page](../../issues/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Show your support
+<!-- ACKNOWLEDGEMENTS -->
 
-Give a ⭐️ if you like this project!
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-## Acknowledgments
+We would like to thank all my fellow micronauts.
 
-- Microverse curriculum
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
 
 ## 📝 License
+
+This project is MIT licensed.
